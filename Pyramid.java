@@ -1,4 +1,4 @@
-public class Pyramid extends Piece {
+public class Pyramid extends Piece, Circle, Triangle, Square {
 
     Circle a = a
     Triangle b = b
